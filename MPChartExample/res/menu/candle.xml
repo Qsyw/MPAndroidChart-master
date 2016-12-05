@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionToggleHighlight"
+        android:title="条目是否可选">
+    </item>
+    <item
+        android:id="@+id/animateX"
+        android:title="横向动画">
+    </item>
+    <item
+        android:id="@+id/animateY"
+        android:title="纵向动画">
+    </item>
+    <item
+        android:id="@+id/animateXY"
+        android:title="斜方向动画">
+    </item>
+    <item
+        android:id="@+id/actionToggleAdjustXLegend"
+        android:title="Toggle AdjustXLegend">
+    </item>
+    <item
+        android:id="@+id/actionSave"
+        android:title="保存图片">
+    </item>
+    <item
+        android:id="@+id/actionTogglePinch"
+        android:title="切换放大方式">
+    </item>
+    <item
+        android:id="@+id/actionToggleAutoScaleMinMax"
+        android:title="Toggle auto scale min/max">
+    </item>
+    <item
+        android:id="@+id/actionToggleMakeShadowSameColorAsCandle"
+        android:title="Toggle shadow same color">
+    </item>
+
+</menu>
